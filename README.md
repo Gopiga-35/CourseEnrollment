@@ -1,10 +1,1 @@
-## Screenshots
-
-### Screenshot 1
-![Screenshot 1](src/Screenshot1.png)
-
-### Screenshot 2
-![Screenshot 2](src/Screenshot2.png)
-
-### Screenshot 3
-![Screenshot 3](src/Screenshot3.png)
+![Screenshot1](https://raw.githubusercontent.com/Gopiga-35/CourseEnrollment/efd6cc901ae2d9e2254b47e846be9b25567357ae/CourseEnrollment/src/Screenshot1.png)
